@@ -1,5 +1,5 @@
 {
-  "name": "haha",
+  "name": "@zhoutest/haha",
   "version": "0.1.0",
   "description": "> TODO: description",
   "author": "zhou <maozhongzhou@moyi365.com>",
@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "dayjs": "^1.9.6"
-  }
+  },
+  "gitHead": "1adda1c455d8ffd275e1c6cf0e07cf25e529524a"
 }

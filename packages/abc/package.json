@@ -1,5 +1,5 @@
 {
-  "name": "abc",
+  "name": "@zhoutest/abc",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "dayjs": "^1.9.6",
-    "haha": "^0.1.0"
-  }
+    "@zhoutest/haha": "^0.1.0"
+  },
+  "gitHead": "1adda1c455d8ffd275e1c6cf0e07cf25e529524a"
 }
