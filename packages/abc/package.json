@@ -1,6 +1,6 @@
 {
   "name": "@zhoutest/abc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dayjs": "^1.9.6",
-    "@zhoutest/haha": "^0.1.0"
+    "@zhoutest/haha": "^0.1.1",
+    "dayjs": "^1.9.6"
   },
   "gitHead": "1adda1c455d8ffd275e1c6cf0e07cf25e529524a"
 }
