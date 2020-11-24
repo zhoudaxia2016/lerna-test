@@ -1,6 +1,6 @@
 {
   "name": "@zhoutest/haha",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "> TODO: description",
   "author": "zhou <maozhongzhou@moyi365.com>",
   "homepage": "",
@@ -14,16 +14,13 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npm.taobao.org/"
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "dayjs": "^1.9.6"
-  },
-  "publishConfig": {
-    "access": "public"
   },
   "gitHead": "80a956fdc68efddec406b4603eacd44dc6b850b9"
 }
