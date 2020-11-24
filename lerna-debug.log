@@ -1,0 +1,10 @@
+54 error Error: Command failed: git push --follow-tags --no-verify --atomic origin master
+54 error Received disconnect from 140.82.113.4 port 22:11: Bye Bye
+54 error Disconnected from 140.82.113.4 port 22
+54 error fatal: Could not read from remote repository.
+54 error
+54 error Please make sure you have the correct access rights
+54 error and the repository exists.
+54 error
+54 error     at makeError (/home/zhou/.local/node/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+54 error     at Promise.all.then.arr (/home/zhou/.local/node/lib/node_modules/lerna/node_modules/execa/index.js:278:16)
