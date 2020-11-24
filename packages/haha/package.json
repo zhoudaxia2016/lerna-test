@@ -22,5 +22,8 @@
   "dependencies": {
     "dayjs": "^1.9.6"
   },
-  "gitHead": "262ba699b497de2f781152cbcb11ae3fa1353147"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "80a956fdc68efddec406b4603eacd44dc6b850b9"
 }
