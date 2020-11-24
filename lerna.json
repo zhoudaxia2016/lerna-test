@@ -3,10 +3,5 @@
 		"packages/*"
 	],
 	"version": "0.2.0",
-	"command": {
-		"publish": {
-			"message": "chore(release): publish",
-			"registry": "https://registry.npmjs.org/"
-		}
-	}
+  "registry": "https://registry.npmjs.org/"
 }
