@@ -1,6 +1,6 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "testzhou",
+  "version": "1.0.0",
   "dependencies": {
     "webpack": "^4.0"
   },
