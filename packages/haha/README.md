@@ -8,4 +8,5 @@
 const haha = require('haha');
 
 // TODO: DEMONSTRATE API
+some word
 ```
